@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JabulaniHubTiger.Api</name>
+    </assembly>
+    <members>
+        <member name="M:JabulaniHubTiger.Api.Controllers.API.V1.BicycleController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="Id">Id</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
